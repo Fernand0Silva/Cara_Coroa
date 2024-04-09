@@ -40,9 +40,18 @@ namespace Teste
                 ResultLabel.Text = $"Voce {resulatado}, perdeu";
             }
 
-
-
-          
+            switch (rnd) 
+            {
+                case 0:
+                   Imagem1.Source = "cara.jpeg";
+                break;
+                 case 1:
+                    Imagem1.Source = "coroa.jpg";
+                    break;
+                default:
+                    Imagem1.Source = "coroa.jpeg";
+                    break;
+            }          
         }
     }
 

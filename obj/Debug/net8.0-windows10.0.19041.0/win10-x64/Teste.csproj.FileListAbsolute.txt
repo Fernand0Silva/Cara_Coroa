@@ -143,11 +143,6 @@ D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win1
 D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
 D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
 D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
-D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
-D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
-D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
-D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
-D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
 D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
 D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Teste.AssemblyInfoInputs.cache
 D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Teste.AssemblyInfo.cs
@@ -175,3 +170,11 @@ D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win1
 D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\coroa.scale-100.jpg
+D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Teste.sourcelink.json
+D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cara.scale-100.jpeg
+D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_b.scale-100.png
+D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_b.scale-125.png
+D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_b.scale-150.png
+D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_b.scale-200.png
+D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_b.scale-400.png

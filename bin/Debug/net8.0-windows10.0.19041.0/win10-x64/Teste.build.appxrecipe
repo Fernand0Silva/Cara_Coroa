@@ -199,20 +199,26 @@
     <AppxPackagedFile Include="D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cara.scale-100.jpeg">
+      <PackagePath>cara.scale-100.jpeg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
+    <AppxPackagedFile Include="D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\coroa.scale-100.jpg">
+      <PackagePath>coroa.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
+    <AppxPackagedFile Include="D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_b.scale-100.png">
+      <PackagePath>dotnet_b.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_b.scale-125.png">
+      <PackagePath>dotnet_b.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_b.scale-150.png">
+      <PackagePath>dotnet_b.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_b.scale-200.png">
+      <PackagePath>dotnet_b.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_b.scale-400.png">
+      <PackagePath>dotnet_b.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS_Luiz\PAM\Cara_Coroa\Teste\Teste\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Teste.deps.json">
       <PackagePath>Teste.deps.json</PackagePath>
